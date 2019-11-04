@@ -1,0 +1,13 @@
+﻿  ChainNode.cpp
+c:\users\geomimo\source\repos\domes\domes\views.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\geomimo\source\repos\domes\domes\views.h(26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Domes.cpp
+c:\users\geomimo\source\repos\domes\domes\views.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\geomimo\source\repos\domes\domes\views.h(26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\geomimo\source\repos\domes\domes\domes.cpp(49): warning C4101: 'y': unreferenced local variable
+c:\users\geomimo\source\repos\domes\domes\domes.cpp(119): error C2059: syntax error: '}'
+c:\users\geomimo\source\repos\domes\domes\domes.cpp(119): error C2143: syntax error: missing ';' before '}'
+  Views.cpp
+c:\users\geomimo\source\repos\domes\domes\views.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\geomimo\source\repos\domes\domes\views.h(26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
