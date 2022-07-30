@@ -1,4 +1,4 @@
-# Data-Stuctures-Project-2018
+# Data Stuctures Project in C++, 2018
 Assessment for the course "Data Structures" of 2st semester, Department of Informatics - University of Piraeus. 
 
 In "DomesPractice" there are 2 small projects, just for practicing. 
