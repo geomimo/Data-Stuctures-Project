@@ -9,4 +9,4 @@ The "domesErg3" is a practice project for creating from scratch a stack data str
 
 The "Domes1" file is the first main project. It was assigned to we create a Linked List data structure and use it in order to calculate and recommend the best view trip, based on distance, reviews, date, etc.
 
-The "Domes2: file is the second main project. It was assinged to we created a BST data structure with extended functionalities.
+The "Domes2" file is the second main project. It was assinged to we created a BST data structure with extended functionalities.
